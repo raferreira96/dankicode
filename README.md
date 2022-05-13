@@ -1,4 +1,4 @@
-# B7WEB
+# DankiCode
 
 Repositório de exercícios, desafios e projetos realizados da plataforma [DankiCode](https://www.dankicode.com).
 
