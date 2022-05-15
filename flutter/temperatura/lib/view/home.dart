@@ -18,7 +18,7 @@ class _HomeState extends State<Home> {
       
       c = double.parse(txtCelsius.text);
       
-      f = (c * 9 / 5) * 32;
+      f = (c * 9 / 5) + 32;
       
       txtFahrenheit.text = f.toStringAsFixed(1);
     });
